@@ -1,10 +1,10 @@
-name: White Paper
+name: Luis Miranda
 markdown: redcarpet
 pygments: true
-url: http://vinitkumar.me/white-paper
-paginate: 8
-description:     Jekyll theme for Programmers
-intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
+url: http://luispmiranda.github.io
+paginate: 5
+description: Luis Miranda 
+intro: Luis Miranda
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
@@ -13,8 +13,8 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:          luispmiranda 
-  avatar:        https://avatars1.githubusercontent.com/u/464353?v=3&s=460 
+  name:          luispmiranda
+  avatar:        https://avatars1.githubusercontent.com/u/464353?v=3&s=460
   email:         luispaulomiranda@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:       luispmiranda
